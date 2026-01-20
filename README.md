@@ -21,6 +21,10 @@ Practical AWS Learning: Hands-on implementation of AWS best practices
 Automates the creation of an IAM user and attaches predefined AWS managed policies.
 <img src="awspics/pic1.png" width="400" alt="addpic">
 
+# Confirm the user is created in AWSCONSOLE
+
+<img src="awspics/pic3.png" width="400" alt="addpic">
+
 Key Features:
 
 Creates a user dynamically via Python variable
