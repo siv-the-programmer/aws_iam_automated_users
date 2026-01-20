@@ -27,6 +27,7 @@ aws iam list-users
 <img src="awspics/pic3.png" width="400" alt="addpic">
 
 Confirm in AWSCONSOLE if user is there
+
 <img src="awspics/pic4.png" width="400" alt="addpic">
 
 
