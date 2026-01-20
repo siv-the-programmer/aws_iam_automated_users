@@ -26,19 +26,19 @@ aws iam list-users
 
 <img src="awspics/pic3.png" width="400" alt="addpic">
 
-Confirm in AWSCONSOLE if user is there
+# Confirm in AWSCONSOLE if user is there
 
 <img src="awspics/pic4.png" width="400" alt="addpic">
 
 
 
-Key Features:
+# Key Features:
 
 Creates a user dynamically via Python variable
 
 Attaches multiple AWS managed policies for S3 and EC2 read-only access
 
-Optionally lists attached policies for verification
+# Optionally lists attached policies for verification
 
 <img src="awspics/pic2.png" width="400" alt="addpol">
 
