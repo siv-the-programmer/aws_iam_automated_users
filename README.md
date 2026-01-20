@@ -25,8 +25,6 @@ Automates the creation of an IAM user and attaches predefined AWS managed polici
 
 <img src="awspics/pic3.png" width="400" alt="addpic">
 
-# AWSCONSOLE GUI
-
 <img src="awspics/pic4.png" width="400" alt="addpic">
 
 
