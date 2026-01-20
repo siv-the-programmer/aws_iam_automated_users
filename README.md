@@ -83,9 +83,6 @@ Key Features:
 
 Deletes IAM users programmatically
 
-Optional output of removed policies
-
-
 Skills Demonstrated
 --
 AWS Automation: Using boto3 to interact with IAM programmatically
