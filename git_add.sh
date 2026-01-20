@@ -21,7 +21,7 @@ done
 echo ".  -> Add all files"
 
 # Ask user to pick a file or add all
-read -p "Select the file number you want to upload (or '.' for all files): " choice
+read -r -p "Select the file number you want to upload (or '.' for all files): " choice
 
 # Detect current branch automatically
 branch=$(git rev-parse --abbrev-ref HEAD 2>/dev/null)
@@ -31,7 +31,7 @@ if [[ -z "$branch" ]]; then
 fi
 
 # Ask for commit message
-read -p "Enter commit message: " commit_msg
+read -r -p "Enter commit message: " commit_msg
 
 # Pull latest changes
 echo "Pulling latest changes from remote..."
