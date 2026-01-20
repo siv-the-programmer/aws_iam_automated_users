@@ -1,7 +1,7 @@
 #!/bin/bash
 
-# Git auto uploader with file picker or "add all"
-#-----------------------------------------
+# Updated the script to add all files 
+
 # Created to automate git add, commit, pull, and push
 
 # List all files in current directory (excluding .git)
