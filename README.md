@@ -19,7 +19,7 @@ Practical AWS Learning: Hands-on implementation of AWS best practices
 # File 1
 1. iam_add_auto.py
 
-<img src="aws_pics/pic6.png" width="400" alt="addpic">
+<img src="awspics/pic1.png" width="400" alt="addpic">
 
 Automates the creation of an IAM user and attaches predefined AWS managed policies.
 
