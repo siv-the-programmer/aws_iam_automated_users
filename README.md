@@ -1,6 +1,10 @@
 AWS IAM Automation – Python & Boto3
 --
 
+![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python&logoColor=white)
+![AWS IAM](https://img.shields.io/badge/AWS-IAM-orange?logo=amazonaws&logoColor=white)
+
+
 This repository demonstrates hands-on experience automating AWS Identity and Access Management (IAM) tasks using Python and boto3. The scripts showcase my ability to create, manage, and remove IAM users programmatically, applying real-world AWS best practices for security, automation, and policy management.
 
 About This Project
