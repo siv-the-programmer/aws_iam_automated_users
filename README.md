@@ -17,11 +17,9 @@ Security Awareness: Detaching policies before user deletion, following least-pri
 Practical AWS Learning: Hands-on implementation of AWS best practices
 
 # File 1
-1. iam_add_auto.py
-
-<img src="awspics/pic1.png" width="400" alt="addpic">
-
+# 1. iam_add_auto.py
 Automates the creation of an IAM user and attaches predefined AWS managed policies.
+<img src="awspics/pic1.png" width="400" alt="addpic">
 
 Key Features:
 
@@ -31,7 +29,7 @@ Attaches multiple AWS managed policies for S3 and EC2 read-only access
 
 Optionally lists attached policies for verification
 
-<img src="aws_pics/pic6.png" width="400" alt="policies">
+<img src="awspics/pic2.png" width="400" alt="addpol">
 
 # File 2
 2. iam_del_auto.py
