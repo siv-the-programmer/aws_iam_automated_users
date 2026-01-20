@@ -61,6 +61,8 @@ Automates the safe removal of an IAM user by first detaching policies, preventin
 
 <img src="awspics/pic6.png" width="400" alt="detatch">
 
+Create a prompt to confirm deletion for safety.
+
 Key Features:
 --
 
