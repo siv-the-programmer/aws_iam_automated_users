@@ -112,4 +112,4 @@ Test in a sandbox or non-production account before production usage
 Follow the principle of least privilege for IAM operations
 
 
-# This project is part of my continuous learning path toward AWS proficiency, combining Python automation, cloud security, and hands-on AWS management skills.
+This project is part of my continuous learning path toward AWS proficiency, combining Python automation, cloud security, and hands-on AWS management skills.
