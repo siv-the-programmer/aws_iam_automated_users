@@ -26,7 +26,10 @@ Security Awareness: Detaching policies before user deletion, following least-pri
 
 Practical AWS Learning: Hands-on implementation of AWS best practices
 
-# File 1
+# Folder 
+```
+USERS_Auto
+```
 ```
  1. iam_add_auto.py
 ```
@@ -60,23 +63,41 @@ Confirm in AWSCONSOLE if policies were added
 
 <img src="awspics/pic5.png" width="400" alt="addpol">
 
+# NB: Never add polices to users directly, always add to the group then put the user in the group
 
 
 
-# File 2
+
+# Folder
+```
+USERS_auto
+```
+
 ```
 2. iam_del_auto.py
 ```
-Automates the safe removal of an IAM user by first detaching policies, preventing errors during deletion.
+- Created a confirmation prompt to confirm deletion for safety.
 
-<img src="awspics/pic6.png" width="400" alt="detatch">
+# Folder 2
+```
+GROUPS_auto
+```
+```
+1. Group_add.py
+```
+- Creates a group of your choice
+- Adds Policies you want
+- adds a user of choice to the group
 
-Create a prompt to confirm deletion for safety.
-
+```
+2. Group_del.py
+```
+- Prompts confirmation in order to delete anything
+- Removes user out of group
+- Detatches polices
+- Deletes group and prints confirmation
 Key Features:
 --
-
-Detaches all assigned policies before deletion
 
 Deletes IAM users programmatically
 
