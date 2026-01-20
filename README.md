@@ -21,10 +21,12 @@ Practical AWS Learning: Hands-on implementation of AWS best practices
 Automates the creation of an IAM user and attaches predefined AWS managed policies.
 <img src="awspics/pic1.png" width="400" alt="addpic">
 
-# AWSCLI
+# Check if user exists
+aws iam list-users
 
 <img src="awspics/pic3.png" width="400" alt="addpic">
 
+Confirm in AWSCONSOLE if user is there
 <img src="awspics/pic4.png" width="400" alt="addpic">
 
 
