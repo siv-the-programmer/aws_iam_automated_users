@@ -59,7 +59,7 @@ Confirm in AWSCONSOLE if policies were added
 ```
 Automates the safe removal of an IAM user by first detaching policies, preventing errors during deletion.
 
-<img src="aws_pics/pic6.png" width="400" alt="detatch">
+<img src="awspics/pic6.png" width="400" alt="detatch">
 
 Key Features:
 --
