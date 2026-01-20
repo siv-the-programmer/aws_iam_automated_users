@@ -50,22 +50,7 @@ aws iam list-users
 
 # Key Features:
 
-Creates a user dynamically via Python variable
-
-Attaches multiple AWS managed policies for S3 and EC2 read-only access
-
-# Optionally lists attached policies for verification
-
-<img src="awspics/pic2.png" width="400" alt="addpol">
-
-Confirm in AWSCONSOLE if policies were added
-
-<img src="awspics/pic5.png" width="400" alt="addpol">
-
-# NB: Never add polices to users directly, always add to the group then put the user in the group
-
-
-
+# Creates a user dynamically via Python variable
 
 # Folder
 ```
@@ -87,6 +72,10 @@ GROUPS_auto
 - Creates a group of your choice
 - Adds Policies you want
 - adds a user of choice to the group
+# NB: Never add polices to users directly, always add to the group then put the user in the group
+
+<img src="awspics/pic5.png" width="400" alt="addpol">
+
 
 ```
 2. Group_del.py
