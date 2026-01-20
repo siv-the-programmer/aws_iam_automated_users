@@ -29,8 +29,7 @@ Practical AWS Learning: Hands-on implementation of AWS best practices
 # Folder 
 ```
 USERS_Auto
-```
-```
+
  1. iam_add_auto.py
 ```
 Automates the creation of an IAM user and attaches predefined AWS managed policies.
@@ -71,12 +70,12 @@ Confirm in AWSCONSOLE if policies were added
 # Folder
 ```
 USERS_auto
-```
 
-```
 2. iam_del_auto.py
 ```
 - Created a confirmation prompt to confirm deletion for safety.
+
+---
 
 # Folder 2
 ```
