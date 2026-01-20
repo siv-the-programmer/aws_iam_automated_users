@@ -46,6 +46,8 @@ Attaches multiple AWS managed policies for S3 and EC2 read-only access
 
 <img src="awspics/pic2.png" width="400" alt="addpol">
 
+Confirm in AWSCONSOLE if policies were added
+
 <img src="awspics/pic5.png" width="400" alt="addpol">
 
 
