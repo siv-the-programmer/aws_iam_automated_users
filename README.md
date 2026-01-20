@@ -4,6 +4,7 @@ AWS IAM Automation – Python & Boto3
 This repository demonstrates hands-on experience automating AWS Identity and Access Management (IAM) tasks using Python and boto3. The scripts showcase my ability to create, manage, and remove IAM users programmatically, applying real-world AWS best practices for security, automation, and policy management.
 
 About This Project
+---
 
 
 Managing IAM users manually through the AWS Console can be repetitive and error-prone. These scripts automate the process, giving precise control over user creation, policy assignment, and user deletion. This reflects my focus on:
