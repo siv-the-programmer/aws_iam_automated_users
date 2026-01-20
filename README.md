@@ -46,12 +46,6 @@ aws iam list-users
 
 <img src="awspics/pic4.png" width="400" alt="addpic">
 
-
-
-# Key Features:
-
-# Creates a user dynamically via Python variable
-
 # Folder
 ```
 USERS_auto
