@@ -1,8 +1,5 @@
 AWS IAM Automation – Python & Boto3
 --
-<a href="https://buymeacoffee.com/sivariob" target="_blank" rel="noopener">
-  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me a Coffee" style="height: 60px !important; width: 217px !important;">
-</a>
 
 ![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python&logoColor=white)
 ![AWS IAM](https://img.shields.io/badge/AWS-IAM-orange?logo=amazonaws&logoColor=white)
@@ -127,5 +124,6 @@ Follow the principle of least privilege for IAM operations
 
 This project is part of my continuous learning path toward AWS proficiency, combining Python automation, cloud security, and hands-on AWS management skills.
 
-Portfolio
-https://sivb-linklet-123.s3.us-east-1.amazonaws.com/index.html
+<a href="https://buymeacoffee.com/sivariob" target="_blank" rel="noopener">
+  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me a Coffee" style="height: 60px !important; width: 217px !important;">
+</a>
