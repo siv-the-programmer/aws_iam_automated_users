@@ -94,8 +94,8 @@ Security Mindset: Ensuring policies are detached before deletion, avoiding destr
 Cloud Engineering Fundamentals: Hands-on experience with AWS IAM, S3, and EC2 concepts
 
 # Prerequisites
-```
 Python 3.x
+```
 
 boto3 installed (pip install boto3)
 
